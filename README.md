@@ -1,6 +1,8 @@
 # BINGE (React + TypeScript + Vite)
 
-A React rewrite of your movie recommendations app using TasteDive.
+• Created a web application using React.js with Vite.js.
+• It uses the TasteDive's APIs to fetch the latest data.
+• It is a responsive application with a search bar and and smooth transitions.
 
 ## Features
 - Dark violet theme and left-aligned brand navbar
