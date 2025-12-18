@@ -14,8 +14,3 @@ https://binge-react.vercel.app/
 - Robust TasteDive fetch via CORS proxy
 npm run preview
 ```
-
-## Notes
-- The app uses the AllOrigins proxy to avoid browser CORS errors.
-- TasteDive limits results to 20 per call; the homepage aggregates across multiple seeds.
-- Ratings/years aren’t provided by TasteDive, so they’re placeholder-only.
