@@ -12,32 +12,6 @@ https://binge-react.vercel.app/
 - Search with basic spelling correction
 - Cards with hover overlays, overview, and optional YouTube embeds
 - Robust TasteDive fetch via CORS proxy
-
-## Setup
-
-1. Install dependencies:
-
-```bash
-npm install
-```
-
-2. Configure API key (optional, uses a default demo key):
-
-```bash
-cp .env.example .env
-# then edit .env to set VITE_TASTEDIVE_KEY
-```
-
-3. Run the dev server:
-
-```bash
-npm run dev
-```
-
-4. Build for production:
-
-```bash
-npm run build
 npm run preview
 ```
 
